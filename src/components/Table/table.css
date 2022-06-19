@@ -1,0 +1,15 @@
+table, th, td  {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    padding: 0.25rem 0.5rem;
+    text-align: center;
+}
+
+table thead {
+    background: rgb(170, 207, 218);
+    color: rgb(26, 77, 143);
+}
+
+table tbody td {
+    color: #888;
+}

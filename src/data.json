@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "status": "00-未派車",
+        "disabled": false 
+    },
+    {
+        "id": 2,
+        "status": "00-未派車",
+        "disabled": true 
+    },
+    {
+        "id": 3,
+        "status": "00-未派車",
+        "disabled": false 
+    },
+    {
+        "id": 4,
+        "status": "00-未派車",
+        "disabled": false 
+    },
+    {
+        "id": 5,
+        "status": "00-未派車",
+        "disabled": false 
+    },
+    {
+        "id": 6,
+        "status": "00-未派車",
+        "disabled": false 
+    },
+    {
+        "id": 7,
+        "status": "00-未派車",
+        "disabled": false 
+    },
+    {
+        "id": 8,
+        "status": "00-未派車",
+        "disabled": false 
+    },
+    {
+        "id": 9,
+        "status": "00-未派車",
+        "disabled": true 
+    },
+    {
+        "id": 10,
+        "status": "00-未派車",
+        "disabled": false 
+    },
+    {
+        "id": 11,
+        "status": "00-未派車",
+        "disabled": false 
+    },
+    {
+        "id": 12,
+        "status": "00-未派車",
+        "disabled": true 
+    },
+    {
+        "id": 13,
+        "status": "00-未派車",
+        "disabled": false 
+    }
+]
